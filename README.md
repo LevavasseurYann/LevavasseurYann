@@ -3,7 +3,7 @@
 **Senior Data Engineer** · Databricks & Azure · Cloud, DevOps & IaC
 
 I design and operate enterprise-grade data platforms end to end — cloud architecture,
-IaC, Delta pipelines, data contracts, quality gates. 7+ years, strong DevOps culture,
+IaC, Delta pipelines, data contracts, quality gates. 8+ years, strong DevOps culture,
 equally comfortable as hands-on engineer and tech lead.
 
 🟢 **Available** — freelance, data platform / data engineering missions  
@@ -17,7 +17,6 @@ equally comfortable as hands-on engineer and tech lead.
 - **Infrastructure as Code** — 100% Terraform-provisioned, environment-isolated, auditable
 - **CI/CD for data** — Databricks Asset Bundles · Airflow + Cosmos · GitHub Actions / Azure DevOps
 - **Data contracts** — FastAPI + Pydantic ingestion, strict schema enforcement through to the Gold layer
-- **Cost optimization** — ~50% Spark compute savings via Z-ordering, compaction and autoscaling
 
 ### Stack
 
@@ -40,4 +39,4 @@ Orchestration  Apache Airflow 3 · Prefect · Cosmos · dbt
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · [Malt](https://www.malt.fr/profile/YOUR_MALT) · levavasseuryann@gmail.com
+[LinkedIn](www.linkedin.com/in/yann-levavasseur-610799122) · [Malt]([https://www.malt.fr/profile/YOUR_MALT](https://www.malt.fr/profile/yannlevavasseur)) · levavasseuryann@gmail.com
