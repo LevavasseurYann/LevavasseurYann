@@ -39,4 +39,4 @@ Orchestration  Apache Airflow 3 · Prefect · Cosmos · dbt
 
 ---
 
-[LinkedIn](www.linkedin.com/in/yann-levavasseur-610799122) · [Malt]([https://www.malt.fr/profile/YOUR_MALT](https://www.malt.fr/profile/yannlevavasseur)) · levavasseuryann@gmail.com
+[LinkedIn](www.linkedin.com/in/yann-levavasseur-610799122) · [Malt]([https://www.malt.fr/profile/YOUR_MALT](https://www.malt.fr/profile/yannlevavasseur) · levavasseuryann@gmail.com
